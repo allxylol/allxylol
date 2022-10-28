@@ -1,0 +1,4 @@
+- About this project:
+- This project was created for a client who needed a landing page to be used for his online business. 
+- This is a very simple website using HTML and CSS.
+- The client asked there not be anything too flashy since he wanted the site to be easy to navigate.
